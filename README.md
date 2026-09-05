@@ -324,7 +324,7 @@ Class-weighted loss
 
 ## Arsitektur ResNet 1D-CNN
 
-![Arsitektur ResNet 1D-CNN DASNet](./blok_diagram_arsitektur_dasnet.jpg)
+![Arsitektur ResNet 1D-CNN DASNet](./arsitektur_resnet1D.png)
 
 Input model memiliki bentuk:
 
@@ -588,6 +588,7 @@ DASNet/
 ├── blok_diagram_arsitektur_dasnet.jpg
 ├── flowchart_sistem_dasnet.png
 ├── confusion_matrix_dasnet.png
+├── arsitektur_resnet1D.png
 ├── grafik_respon_anomali_dasnet.png
 ├── kurva_akurasi_dasnet.png
 ├── kurva_loss_dasnet.png
@@ -608,9 +609,11 @@ DASNet/
 | `sensor2_voltage.csv` | CSV | ~78,2 MB | Data sinyal tegangan |
 | `sensor3_acoustic_em.csv` | CSV | ~73,3 MB | Data emisi akustik-elektromagnetik |
 | `labels.csv` | CSV | ~154 KB | Label kelas |
+
 | `blok_diagram_arsitektur_dasnet.jpg` | JPG | ~39 KB | Diagram arsitektur |
 | `flowchart_sistem_dasnet.png` | PNG | ~58 KB | Flowchart sistem |
 | `confusion_matrix_dasnet.png` | PNG | ~29 KB | Confusion matrix |
+| `arsitektur_resnet1D.png` | PNG | ~181 KB | Arsitektur Resnet 1D |
 | `grafik_respon_anomali_dasnet.png` | PNG | ~90 KB | Respons skor anomali |
 | `kurva_akurasi_dasnet.png` | PNG | ~26 KB | Kurva akurasi |
 | `kurva_loss_dasnet.png` | PNG | ~25 KB | Kurva loss |
