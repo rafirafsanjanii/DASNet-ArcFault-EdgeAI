@@ -188,7 +188,7 @@ Pemrosesan utama dilakukan oleh **ESP32-S3** untuk:
 
 ## Flowchart Sistem
 
-![Flowchart Sistem DASNet](./flowchart_sistem_dasnet.png)
+![Flowchart Sistem DASNet](./flowchart_sistem_dasnet.jpg)
 
 Alur penelitian dan implementasi secara umum mencakup:
 
