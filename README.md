@@ -76,7 +76,8 @@ Node DASNet bekerja secara **on-device**, memberikan peringatan lokal, dapat men
 
 | Nama | Peran dalam Karya | Institusi |
 |---|---|---|
-| **Rafi Rafsanjani** | Anggota Tim / Peneliti | Institut Teknologi Sumatera |
+| **Nazuwatussya'diyah** | Dosen Pembimbing | Institut Teknologi Sumatera |
+| **Rafi Rafsanjani** | Ketua Tim / Peneliti | Institut Teknologi Sumatera |
 | **Muhammad Yusuf Aditiya** | Anggota Tim / Peneliti | Institut Teknologi Sumatera |
 | **Dimas Rifai** | Anggota Tim / Peneliti | Institut Teknologi Sumatera |
 
